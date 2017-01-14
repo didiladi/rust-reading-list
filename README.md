@@ -25,7 +25,7 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 ## Builder pattern
 
 - [ ] [Builder pattern derive crate](https://github.com/ctjhoa/rust-learning#best-practicesstyle-guides)
-- [ ] [The builde rpattern]/https://aturon.github.io/ownership/builders.html) *(by Aaron Turon)* 
+- [ ] [The builder pattern](https://aturon.github.io/ownership/builders.html) *(by Aaron Turon)* 
 
 ## Videos
 ### Rust Conf 2016
