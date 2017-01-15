@@ -28,9 +28,18 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 - [ ] [The builder pattern](https://aturon.github.io/ownership/builders.html) *(by Aaron Turon)* 
 
 ## Videos
-### Rust Conf 2016
+### RustConf 2016
 
--
+- [x] [Opening Keynote](https://www.youtube.com/watch?v=pTQxHIzGqFI) *(by Aaron Turon & Niko Matsakis)*
+- [ ] [Integrating Some Rust in VLC Media Player](https://www.youtube.com/watch?v=YTy_JOxGOd4&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=2) *(by Geoffroy Couprie)*
+- [x] [The r/playrust Classifier](https://www.youtube.com/watch?v=lY10kTcM8ek&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=3) *(by Suchin Gururangan and Colin O'Brien)*
+- [x] [Back to the Futures](https://www.youtube.com/watch?v=erJdCIti_O8) *(by Alex Crichton)*
+- [x] [A Modern Editor Built in Rust](https://www.youtube.com/watch?v=SKtQgFBRUvQ) *(by Raph Levien)*
+- [ ] [RFC: In Order to Form a More Perfect 'union'](https://www.youtube.com/watch?v=U8Gl3RTXf88&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=6) *(by Josh Triple)*
+- [ ] [Closing Keynote](https://www.youtube.com/watch?v=ftQfpAeyxPo&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=7) *(by Julia Evans)*
+- [x] [Using Generics Effectively](https://www.youtube.com/watch?v=erJdCIti_O8) *(by Without Boats)*
+  - Contains interesting points about how traits can be used as a means of abstraction. Even if the trait is just implemented once, it opens the possibility to create mocks for unit tests. Also, traits can be used to replace boilerplate enum matching code.
+- [ ] [The Illustrated Adventure Survival Guide for New Rustaceans](https://www.youtube.com/watch?v=Ce6ppwgF4SA&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=9) *(by Liz Baillie)*
 
 ## Cool projects in Rust
 
@@ -39,4 +48,4 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 ## Other people's lists
 
 - https://github.com/ctjhoa/rust-learning#best-practicesstyle-guides
-
+https://www.youtube.com/watch?v=YTy_JOxGOd4&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=
