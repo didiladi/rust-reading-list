@@ -6,11 +6,9 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 
 - [x] [The Rust Programming Language Book - Rust Documentation](https://doc.rust-lang.org/stable/book/)
   - Available as *.epub* here: https://killercup.github.io/trpl-ebook/
-  - :star::star::star::star::star: *Definitive starting point when one wants to learn Rust.*
-
+  - *Definitive starting point when one wants to learn Rust.*
 - [x] [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) *(by Pascal Hertleif)*
   - Contains best practices for library APIs, like naming conventions and non-obvious useful tricks.
-  - :star::star::star::star::star:
 
 ## Networking
 
@@ -48,4 +46,3 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 ## Other people's lists
 
 - https://github.com/ctjhoa/rust-learning#best-practicesstyle-guides
-https://www.youtube.com/watch?v=YTy_JOxGOd4&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=
