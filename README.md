@@ -18,7 +18,7 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 ## Language features
 
 - [ ] [Impl trait tracking issue](https://github.com/rust-lang/rust/issues/34511)
-- [ ] [Rust patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17#.hlgc5zrwz) *(by Jonathan Reem)*
+- [x] [Rust patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17#.hlgc5zrwz) *(by Jonathan Reem)*
 
 ## Builder pattern
 
@@ -26,6 +26,11 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 - [ ] [The builder pattern](https://aturon.github.io/ownership/builders.html) *(by Aaron Turon)* 
 
 ## Videos
+
+### General
+
+- [x] [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) *(by Steve Klabnik)*
+
 ### RustConf 2016
 
 - [x] [Opening Keynote](https://www.youtube.com/watch?v=pTQxHIzGqFI) *(by Aaron Turon & Niko Matsakis)*
