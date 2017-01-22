@@ -20,6 +20,10 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 - [ ] [Impl trait tracking issue](https://github.com/rust-lang/rust/issues/34511)
 - [x] [Rust patterns: Using traits for function overloading](https://medium.com/@jreem/advanced-rust-using-traits-for-argument-overloading-c6a6c8ba2e17#.hlgc5zrwz) *(by Jonathan Reem)*
 
+### Strings
+
+- [x] [String vs &str in Rust functions](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html)
+
 ## Builder pattern
 
 - [ ] [Builder pattern derive crate](https://github.com/ctjhoa/rust-learning#best-practicesstyle-guides)
@@ -34,15 +38,15 @@ My personal reading list for rust resources which I stumpled upon. While I'm lis
 ### RustConf 2016
 
 - [x] [Opening Keynote](https://www.youtube.com/watch?v=pTQxHIzGqFI) *(by Aaron Turon & Niko Matsakis)*
-- [ ] [Integrating Some Rust in VLC Media Player](https://www.youtube.com/watch?v=YTy_JOxGOd4&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=2) *(by Geoffroy Couprie)*
+- [x] [Integrating Some Rust in VLC Media Player](https://www.youtube.com/watch?v=YTy_JOxGOd4&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=2) *(by Geoffroy Couprie)*
 - [x] [The r/playrust Classifier](https://www.youtube.com/watch?v=lY10kTcM8ek&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=3) *(by Suchin Gururangan and Colin O'Brien)*
 - [x] [Back to the Futures](https://www.youtube.com/watch?v=erJdCIti_O8) *(by Alex Crichton)*
 - [x] [A Modern Editor Built in Rust](https://www.youtube.com/watch?v=SKtQgFBRUvQ) *(by Raph Levien)*
-- [ ] [RFC: In Order to Form a More Perfect 'union'](https://www.youtube.com/watch?v=U8Gl3RTXf88&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=6) *(by Josh Triple)*
-- [ ] [Closing Keynote](https://www.youtube.com/watch?v=ftQfpAeyxPo&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=7) *(by Julia Evans)*
+- [x] [RFC: In Order to Form a More Perfect 'union'](https://www.youtube.com/watch?v=U8Gl3RTXf88&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=6) *(by Josh Triple)*
+- [x] [Closing Keynote](https://www.youtube.com/watch?v=ftQfpAeyxPo&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=7) *(by Julia Evans)*
 - [x] [Using Generics Effectively](https://www.youtube.com/watch?v=erJdCIti_O8) *(by Without Boats)*
   - Contains interesting points about how traits can be used as a means of abstraction. Even if the trait is just implemented once, it opens the possibility to create mocks for unit tests. Also, traits can be used to replace boilerplate enum matching code.
-- [ ] [The Illustrated Adventure Survival Guide for New Rustaceans](https://www.youtube.com/watch?v=Ce6ppwgF4SA&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=9) *(by Liz Baillie)*
+- [x] [The Illustrated Adventure Survival Guide for New Rustaceans](https://www.youtube.com/watch?v=Ce6ppwgF4SA&list=PLE7tQUdRKcybLShxegjn0xyTTDJeYwEkI&index=9) *(by Liz Baillie)*
 
 ## Cool projects in Rust
 
